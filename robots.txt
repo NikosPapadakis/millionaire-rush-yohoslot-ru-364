@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://millionaire-rush-yohoslot-ru.github.io/sitemap.xml
